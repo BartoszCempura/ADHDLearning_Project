@@ -1,0 +1,10 @@
+dodanie sygnałów dźwiękowych
+zaprogramowanie pętli dla dźwięku
+dodanie refresh do okna listy
+poprawa UI/UX
+Dodanie możliwości zadeklarowania ile razy ma się wykonać pętla czas pracy i czas odpoczynku
+Dodanie przycisku dla zakończenia perzerwy który umożliwi wykonanie skip
+Poprawa tekstu w aplikajci - mamt ADHDL-aa-rning
+Dodanie ikon do programu.
+Okno przerwy usunąć nazwe wyskakującego forms
+W oknie checklisty dodać mozliwośc wpisania tytułu ,  albo nazwy nadrzędnej dla pewnych zadań - może tutaj popwinno się otwierać nowe okno z ,formsem gdzie będzie dodawanie kolejnych zadań i możliwość zaznaczenia czy to tytuł czy zadanie
