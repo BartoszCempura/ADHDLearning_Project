@@ -1,0 +1,35 @@
+C:\ADHDLearning\ADHDLaarning\bin\Debug\net8.0-windows\ADHDLaarning.exe
+C:\ADHDLearning\ADHDLaarning\bin\Debug\net8.0-windows\ADHDLaarning.deps.json
+C:\ADHDLearning\ADHDLaarning\bin\Debug\net8.0-windows\ADHDLaarning.runtimeconfig.json
+C:\ADHDLearning\ADHDLaarning\bin\Debug\net8.0-windows\ADHDLaarning.dll
+C:\ADHDLearning\ADHDLaarning\bin\Debug\net8.0-windows\ADHDLaarning.pdb
+C:\ADHDLearning\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.csproj.GenerateResource.cache
+C:\ADHDLearning\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADHDLearning\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.AssemblyInfoInputs.cache
+C:\ADHDLearning\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.AssemblyInfo.cs
+C:\ADHDLearning\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.csproj.CoreCompileInputs.cache
+C:\ADHDLearning\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.dll
+C:\ADHDLearning\ADHDLaarning\obj\Debug\net8.0-windows\refint\ADHDLaarning.dll
+C:\ADHDLearning\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.pdb
+C:\ADHDLearning\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.genruntimeconfig.cache
+C:\ADHDLearning\ADHDLaarning\obj\Debug\net8.0-windows\ref\ADHDLaarning.dll
+C:\ADHDLearning\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.Main_Window.resources
+C:\ADHDLearning\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.PrzerwaForm.resources
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\bin\Debug\net8.0-windows\ADHDLaarning.exe
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\bin\Debug\net8.0-windows\ADHDLaarning.deps.json
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\bin\Debug\net8.0-windows\ADHDLaarning.runtimeconfig.json
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\bin\Debug\net8.0-windows\ADHDLaarning.dll
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\bin\Debug\net8.0-windows\ADHDLaarning.pdb
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.Main_Window.resources
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.PrzerwaForm.resources
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.csproj.GenerateResource.cache
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.AssemblyInfoInputs.cache
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.AssemblyInfo.cs
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.csproj.CoreCompileInputs.cache
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.dll
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\refint\ADHDLaarning.dll
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.pdb
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.genruntimeconfig.cache
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\ref\ADHDLaarning.dll
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLaarning\obj\Debug\net8.0-windows\ADHDLaarning.sourcelink.json

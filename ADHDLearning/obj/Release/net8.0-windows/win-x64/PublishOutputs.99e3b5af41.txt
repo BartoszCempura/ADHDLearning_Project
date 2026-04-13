@@ -1,0 +1,8 @@
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLearning\ADHDLearner\ADHDLaarning.pdb
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLearning\ADHDLearner\Sounds\mixkit-train-waiting-at-station-1634.wav
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLearning\ADHDLearner\D3DCompiler_47_cor3.dll
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLearning\ADHDLearner\PenImc_cor3.dll
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLearning\ADHDLearner\PresentationNative_cor3.dll
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLearning\ADHDLearner\vcruntime140_cor3.dll
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLearning\ADHDLearner\wpfgfx_cor3.dll
+C:\Repozytorium Programy\ADHDLearning_Project\ADHDLearning\ADHDLearner\ADHDLaarning.exe
