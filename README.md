@@ -1,3 +1,7 @@
+</br>
+<p align="center">-------------------------------------------------- PL --------------------------------------------------</p>
+</br>
+
 Aplikacja umożliwia:
 - deklarację zadań do wykonania
 - utworzenie listy, zapis i wczytanie jej stanu
@@ -10,6 +14,9 @@ Aplikacja implementuje kilka z rozwiązań mających umożliwić przełamanie pr
 3. Przy uruchomieniu odliczania można wybrać ulubione nagranie które umożliwi skupienie na zadaniu np. brown noise, white noise
 4. Na środku ekranu pjawia się okno odliczania czasu przerwy utrudniające pozostanie przed komputerem i przeglądanie internetu
 
+</br>
+<p align="center">-------------------------------------------------- EN --------------------------------------------------</p>
+</br>
 
 The application allows you to:
 - declare tasks to be completed
@@ -23,5 +30,6 @@ The application implements several solutions designed to help overcome procrasti
 3. When starting the countdown, you can choose your favorite recording to help you focus on the task, e.g., brown noise or white noise
 4. A break time countdown window appears in the center of the screen, making it difficult to stay in front of the computer and browse the internet
 
-
-<img width="296" height="493" alt="Zrzut ekranu 2026-04-09 132638" src="https://github.com/user-attachments/assets/25715c33-c899-4374-87b8-9d2bd7fdf2d9" />
+<div align="center">
+  <img width="296" height="493" alt="Zrzut ekranu 2026-04-09 132638" src="https://github.com/user-attachments/assets/25715c33-c899-4374-87b8-9d2bd7fdf2d9" />
+</div>
